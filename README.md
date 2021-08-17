@@ -6,5 +6,7 @@ Import db.sql ke xampp dengan nama database : db
 
 <h3>Akses Halaman Admin</h3>
 Untuk mengakases halaman admin, url= localhost/bacabuku/admin/ <br>
-username = admin <br>
-password = admin
+<ul>
+  <li>username = admin</li>
+  <li>password = admin</li>
+</ul>
